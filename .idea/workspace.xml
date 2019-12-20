@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917a40c0-5119-4085-be14-0ecd97948727" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VFYy0CgVMKKzhW3Kn7VEUEL8pP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917a40c0-5119-4085-be14-0ecd97948727" name="Default Changelist" comment="" />
+      <created>1576850560734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576850560734</updated>
+      <workItem from="1576850565225" duration="237000" />
+      <workItem from="1576850902737" duration="6880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="189" width="674" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576855240000">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="361" y="189" width="674" height="423" key="#com.intellij.fileTypes.FileTypeChooser/40.27.1326.741@40.27.1326.741" timestamp="1576855240000" />
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1576850801549">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor/40.27.1326.741@40.27.1326.741" timestamp="1576850801549" />
+    <state x="359" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576850576086">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="359" y="225" key="com.intellij.ide.util.TipDialog/40.27.1326.741@40.27.1326.741" timestamp="1576850576086" />
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576855225065">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup/40.27.1326.741@40.27.1326.741" timestamp="1576855225065" />
+  </component>
+</project>
